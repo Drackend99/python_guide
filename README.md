@@ -61,7 +61,7 @@ It will wrap, so it will get the last element and continue walking backwards by 
 
 #### Negative Indices
 
-How do negative list indices work? "Negative" really just means backwards in this context. Look at the following example arrays:
+How do negative list indices work? "Negative" really just means backwards in this context. Look at the following example array:
 
 ```
 my_list = [1, 2, 3, 4, 5, 6]
