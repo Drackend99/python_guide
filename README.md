@@ -59,7 +59,7 @@ my_list[::-1]
 ```
 It will wrap, so it will get the last element and continue walking backwards by one. Likewise ```my_list[::-2]``` won't get you the second to last element, but will get the last element and continue walking backwards by two.
 
-### Negative Indices
+#### Negative Indices
 
 How do negative list indices work? "Negative" really just means backwards in this context. Look at the following example arrays:
 
