@@ -46,3 +46,11 @@ my_function(arg1, arg2, arg3)
 ```
 
 except the args are separated by the colons rather than commas.
+
+### Applications
+
+With this, you can do cool things. For example, if you wanted to reverse a list, you could just do:
+```
+my_list[::-1]
+```
+It will wrap, so it will get the last element and continue walking backwards by one. Likewise ```my_list[::-2]``` won't get you the second to last element, but will get the last element and continue walking backwards by two.
