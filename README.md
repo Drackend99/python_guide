@@ -34,7 +34,7 @@ my_list[:3]
 which will print out the first three items (0, 1, 2). Of course, if you want to be extra confusing, you could do:
 
 ```
-my_list[:3:
+my_list[:3:]
 ````
 
 which will print out the same exact thing, since the third argument is still blank. 
